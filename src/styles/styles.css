@@ -23,7 +23,7 @@ body {
 }
 
 .logo-btn {
-  position: fixed;
+  position: relative;
   top: 10px;
   left: 10px;
   background: none;
